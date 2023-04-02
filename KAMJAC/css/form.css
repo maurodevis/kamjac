@@ -135,7 +135,7 @@ ul, ol {
   }
   
   .navbar{
-    width: 120rem;
+    width: 100%;
     height: 4.5rem;
     display: flex;
     background: linear-gradient(to right,
@@ -148,9 +148,8 @@ ul, ol {
   }
   
   .logo{
-    margin-right: 50%;
     width: 100px;
-    padding: 40px;
+    padding: 30px;
   }
   
   .menu{
