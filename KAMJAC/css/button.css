@@ -2,7 +2,7 @@
     display: inline-block;
     padding: 10px 35px;
     margin: 3px;
-    border: 2px solid transparent;
+    border: 3px solid transparent;
     border-radius: 3px;
     -webkit-transition: 0.2s opacity;
     transition: 0.2s opacity;
